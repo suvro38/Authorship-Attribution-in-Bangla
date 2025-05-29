@@ -1,4 +1,4 @@
-# Authorship-Attribution-in-Bangla
+# Authorship-Attribution-in-Bangla-Using-Stylometric-and-N-gram-Features
 Mini Project for Natural Language Understanding
 
 ## Abstract
